@@ -1,4 +1,3 @@
-# data-science
 - 👋  Hi, I’m @okwechimeeric 
 - 👀  I’m interested in Data Engineering and Data Science
 - 🌱  I’m currently learning TensorFlow
